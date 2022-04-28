@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis Using 'R'
 
 ## Overview of Project
-Jeremy an employee of ten years at AutosRUs, has just been made a primary analyst for the new data analytics team. His new team uses 'R' and because of this he will be learning it. This team will be doing current and historical analytics on automobiles.
+Jeremy an employee of ten years at AutosRUs, has just been made a primary analyst for the new data analytics team. His new team uses 'R' and because of this he will be learning it. This team will be doing current and historical statistical validation and analysis on automobiles. This team will need to understand test results, define different variables and create visualizations and workflows for a variety of datasets.
 
 ### Purpose
 
